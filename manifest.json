@@ -1,0 +1,35 @@
+{
+  "name": "Lane Dash",
+  "short_name": "Lane Dash",
+  "description": "An endless lane-runner by Afraz Studio — dodge trains, jump barricades, and grab coins.",
+  "id": "/index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#7ec8f2",
+  "theme_color": "#7ec8f2",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["games", "entertainment", "arcade"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
